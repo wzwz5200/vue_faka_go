@@ -1,43 +1,14 @@
 
 <div align=center>
-<img src="http://qmplusimg.henrongyi.top/gvalogo.jpg" width="300" height="300" />
-</div>
-<div align=center>
-<img src="https://img.shields.io/badge/golang-1.20-blue"/>
-<img src="https://img.shields.io/badge/gin-1.9.1-lightBlue"/>
-<img src="https://img.shields.io/badge/vue-3.3.4-brightgreen"/>
-<img src="https://img.shields.io/badge/element--plus-2.3.8-green"/>
-<img src="https://img.shields.io/badge/gorm-1.25.2-red"/>
+
 </div>
 
-[English](./README-en.md) | 简体中文
+## 添加商品
+![这是图片](/屏幕截图_16-8-2024_13427_localhost.jpeg "Magic Gardens")
+## 订单
+![这是图片](/屏幕截图_16-8-2024_134221_localhost.jpeg "Magic Gardens")
 
-# 项目文档
-[在线文档](https://www.gin-vue-admin.com) : https://www.gin-vue-admin.com
 
-[初始化](https://www.gin-vue-admin.com/guide/start-quickly/initialization.html)
-						       
-[从环境到部署教学视频](https://www.bilibili.com/video/BV1Rg411u7xH)
-
-[开发教学](https://www.gin-vue-admin.com/guide/start-quickly/env.html) (贡献者:  <a href="https://github.com/LLemonGreen">LLemonGreen</a> And <a href="https://github.com/fkk0509">Fann</a>)
-
-[交流社区](https://support.qq.com/products/371961)
-
-[插件市场](https://plugin.gin-vue-admin.com/)
-
-# 重要提示
-
-1.本项目从起步到开发到部署均有文档和详细视频教程
-
-2.本项目需要您有一定的golang和vue基础
-
-3.您完全可以通过我们的教程和文档完成一切操作，因此我们不再提供免费的技术服务，如需服务请进行[付费支持](https://www.gin-vue-admin.com/coffee/payment.html)
-
-4.如果您将此项目用于商业用途，请遵守Apache2.0协议并保留作者技术支持声明。您需保留如下版权声明信息，以及日志和代码中所包含的版权声明信息。所需保留信息均为文案性质，不会影响任何业务内容，如决定商用且必须剔除请[购买授权](https://www.gin-vue-admin.com/empower/index.html)
-
-<img src="https://qmplusimg.henrongyi.top/openSource/login.jpg" width="1000">
-
-<img src="https://qmplusimg.henrongyi.top/openSource/dashboard.jpg" width="1000">
 
 ## 1. 基本介绍
 

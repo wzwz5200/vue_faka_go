@@ -3,10 +3,17 @@
 
 </div>
 
+## 前端项目
+<li> <a herf="https://github.com/wzwz5200/vue_faka">
+前端项目
+</a> 
+
+
+
 ## 添加商品
-![这是图片](/屏幕截图_16-8-2024_13427_localhost.jpeg "Magic Gardens")
+![这是图片](./屏幕截图_16-8-2024_13427_localhost.jpeg "Magic Gardens")
 ## 订单
-![这是图片](/屏幕截图_16-8-2024_134221_localhost.jpeg "Magic Gardens")
+![这是图片](./屏幕截图_16-8-2024_134221_localhost.jpeg "Magic Gardens")
 
 
 

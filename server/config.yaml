@@ -153,7 +153,7 @@ pgsql:
     config: sslmode=disable TimeZone=Asia/Shanghai
     db-name: vue_db
     username: postgres
-    password: 18326307873qq
+    password: 
     path: 127.0.0.1
     engine: ""
     log-mode: error
